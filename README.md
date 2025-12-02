@@ -1,5 +1,5 @@
 # DocuMind
-
+<em>Designed to solve the privacy risks of uploading sensitive financial/legal documents to cloud LLMs like GPT-4.</em>
 DocuMind is an advanced, privacy-focused AI assistant that allows users to chat with their documents and the web. Built with a "local-first" philosophy, it leverages **Ollama** to run powerful LLMs directly on your machine, ensuring your data never leaves your control.
 
 Whether you need to summarize a research paper, extract insights from a financial report, or query a GitHub repository, DocuMind provides a seamless, chat-based interface to interact with your content.
